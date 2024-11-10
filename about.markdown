@@ -4,4 +4,10 @@ title: About
 permalink: /about/
 ---
 
-I also watch [movies](https://letterboxd.com/batikbabu/) and play [chess](https://lichess.org/@/batikbabu).
+### 👋 Hi there!  <!-- # noqa -->
+
+I am Souvik!
+
+I am currently working as a data scientist in Lowe's. Before joing Lowe's, I did my master's in Statistics from the Indian Institute of Technology, Kanpur.
+
+I love watching [movies](https://letterboxd.com/batikbabu/)! I also enjoy playing [chess](https://letterboxd.com/batikbabu/) (mostly bullet games on Lichess these days). Occasionally, you might find me playing video games as well (only single-player). [Red Dead Redemption 2](https://en.wikipedia.org/wiki/Red_Dead_Redemption_2) 🤠 is my all-time favorite!
