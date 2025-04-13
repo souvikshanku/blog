@@ -27,6 +27,13 @@ permalink: /projects/
 <br>
 
 <p style="text-align:left;">
+    <img src="{{site.baseurl}}/assets/img/projects/translit_former.jpg" alt="translit-former" style="float:left; margin-right:20px; height: 80px; width: 80px">
+    <a href="https://github.com/souvikshanku/translit-former/">translit-former</a> is a transformer-based transliteration model trained on the Bengali subset of the <a href="https://github.com/google-research-datasets/dakshina">Dakshina dataset</a>. Wrote a <a href="https://souvikshanku.github.io/blog/translit-former">blog-post</a> on this too!
+</p>
+
+<br>
+
+<p style="text-align:left;">
     <img src="https://raw.githubusercontent.com/souvikshanku/ray-tracer/main/scene.png" alt="raytracer" style="float:left; margin-right:20px; height: 80px; width: 80px">
     A simple <a href="https://github.com/souvikshanku/ray-tracer">ray-tracer</a> built in python based on Gabriel Gambetta's awesome <a href="https://www.gabrielgambetta.com/computer-graphics-from-scratch/">book</a>.
 </p>
